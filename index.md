@@ -51,3 +51,11 @@ git checkout <id>
 ```
 git checkout <branch>
 ```
+
+## Создание новой ветки
+
+Чтобы создать новую ветку необходимо ввести команду
+
+```
+git branch <branch_name>
+```
