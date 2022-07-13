@@ -51,3 +51,11 @@ git checkout <id>
 ```
 git checkout <branch>
 ```
+
+## Удаление ветки
+
+Чтобы удалить ветку необходимо ввести команду
+
+```
+git branch -d <branch_name>
+```
