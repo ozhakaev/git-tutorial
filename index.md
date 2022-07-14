@@ -88,3 +88,7 @@ git merge <branch_name>
 ```
 git log --graph
 ```
+
+## Временный заголовок
+
+Lorem ipsum
